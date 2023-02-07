@@ -1,2 +1,3 @@
 # Testies
-This is a github test tutorial.
+Info
+Just my contact info and WIP portfolio
